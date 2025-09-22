@@ -21,3 +21,7 @@ https://www.rit.edu/
 This specific course is taught at the [Rochester Institute of Technology (RIT)](https://www.rit.edu/).
 
 ![Overhead view of RIT's Sentinel statue](https://zoom.us/account/branding/p/7e63d990-a6a1-4af5-b962-7a71a6d1718d.jpg)
+
+---
+
+![dog](images/cassie.jpg)
